@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcf6f4e5-cb7e-4daf-b7a1-30fd7db0faf8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-1/cutStrings/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-1/cutStrings/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-1/splitAndMerge/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-1/splitAndMerge/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-1/weirdString/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-1/weirdString/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module-1/debounce/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-1/debounce/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module-1/debounce/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-1/debounce/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/module-1/cutStrings/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -58,17 +56,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/module-1/weirdString/index.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="48" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/module-1/splitAndMerge/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/module-1/debounce/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/module-1/splitAndMerge/index.js">
+        <entry file="file://$PROJECT_DIR$/src/module-1/debounce/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="7" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/module-1/debounce/index.example.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="273" selection-end-column="273" />
             </state>
           </provider>
         </entry>
@@ -84,6 +109,9 @@
         <option value="$PROJECT_DIR$/src/module-1/cutStrings/index.js" />
         <option value="$PROJECT_DIR$/src/module-1/weirdString/index.js" />
         <option value="$PROJECT_DIR$/src/module-1/splitAndMerge/index.js" />
+        <option value="$PROJECT_DIR$/src/module-1/weirdString/index.spec.js" />
+        <option value="$PROJECT_DIR$/src/module-1/debounce/index.html" />
+        <option value="$PROJECT_DIR$/src/module-1/debounce/index.js" />
       </list>
     </option>
   </component>
@@ -131,6 +159,13 @@
               <item name="js-module-nikakarelets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="module-1" type="462c0819:PsiDirectoryNode" />
+              <item name="debounce" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js-module-nikakarelets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js-module-nikakarelets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="module-1" type="462c0819:PsiDirectoryNode" />
               <item name="splitAndMerge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -148,6 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -175,17 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jest.index.spec.js (2)">
-    <configuration name="index.spec.js (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST_FILE" />
-      <test-file value="$PROJECT_DIR$/src/module-1/weirdString/index.spec.js" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.index.js">
     <configuration name="index.spec.js (2)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -196,29 +222,25 @@
       <test-file value="$PROJECT_DIR$/src/module-1/splitAndMerge/index.spec.js" />
       <method v="2" />
     </configuration>
-    <configuration name="index.spec.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST_FILE" />
-      <test-file value="$PROJECT_DIR$/src/module-1/cutStrings/index.spec.js" />
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-module-nikakarelets/src/module-1/debounce/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/src/module-1/weirdString">
+    <configuration name="index.example.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.example.js" working-dir="$PROJECT_DIR$/src/module-1/debounce">
       <method v="2" />
     </configuration>
     <configuration name="index.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/src/module-1/splitAndMerge">
       <method v="2" />
     </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/src/module-1/debounce">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.index.example.js" />
         <item itemvalue="Jest.index.spec.js (2)" />
         <item itemvalue="Node.js.index.js (2)" />
-        <item itemvalue="Jest.index.spec.js (1)" />
-        <item itemvalue="Node.js.index.js (1)" />
-        <item itemvalue="Jest.index.spec.js" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +254,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632418522199</updated>
-      <workItem from="1632418523746" duration="4060000" />
+      <workItem from="1632418523746" duration="10109000" />
     </task>
     <servers />
   </component>
@@ -269,7 +291,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4060000" />
+    <option name="totallyTimeSpent" value="10109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -279,13 +301,13 @@
       <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24947146" />
       <window_info id="npm" order="3" side_tool="true" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -322,27 +344,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/module-1/cutStrings/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/module-1/weirdString/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/module-1/weirdString/index.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/module-1/splitAndMerge/index.spec.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -356,7 +357,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-1/cutStrings/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-1/weirdString/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-1/weirdString/index.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/module-1/splitAndMerge/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-1/debounce/index.example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="273" selection-end-column="273" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-1/debounce/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-1/debounce/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
