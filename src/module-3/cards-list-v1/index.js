@@ -1,4 +1,4 @@
-import Card from '../../module-2/card/index.js';
+import Card from '../../module-2/card';
 
 export default class CardsList {
   constructor (data = []) {
