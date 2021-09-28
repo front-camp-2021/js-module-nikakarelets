@@ -61,6 +61,17 @@ export default class Card {
     wrapper.className = 'product';
     wrapper.innerHTML = this.getTemplate();
 
-    this.element = wrapper
+    this.element = wrapper;
+  }
+
+  remove () {
+    if (this.element) {
+      this.element.remove();
+    }
+  }
+
+  destroy () {
+    this.remove();
+    this.element = null;
   }
 }

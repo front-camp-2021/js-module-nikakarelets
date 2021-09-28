@@ -4,6 +4,12 @@ export default class CardsList {
   constructor (data = []) {
     this.data = data;
 
-    // ... your logic
+
+  }
+
+
+
+  render () {
+
   }
 }

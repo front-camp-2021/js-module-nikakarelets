@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcf6f4e5-cb7e-4daf-b7a1-30fd7db0faf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/module-2/card/img/heart-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module-2/card/img/shopping-bag.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-2/card/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-2/card/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/module-2/card/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-2/card/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-3/cards-list-v1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-3/cards-list-v1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/module-3/cards-list-v1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-3/cards-list-v1/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-3/cards-list-v1/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-3/cards-list-v1/index.spec.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,13 +17,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="137">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/module-2/card/index.html">
+        <entry file="file://$PROJECT_DIR$/src/module-3/cards-list-v1/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="e#457#487#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/module-3/cards-list-v1/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/module-2/card/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -46,57 +50,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/module-2/card/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fixtures/products.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-197" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/module-2/card/styles/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2265">
-              <caret line="151" column="1" selection-start-line="151" selection-start-column="1" selection-end-line="151" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/module-2/card/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/module-2/card/img/shopping-bag.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/module-2/card/img/star.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>productButtonsBtn.append(addToCartBtnIco)</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/module-3</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,13 +74,14 @@
         <option value="$PROJECT_DIR$/src/module-1/debounce/index.js" />
         <option value="$PROJECT_DIR$/src/module-2/card/index.jsx" />
         <option value="$PROJECT_DIR$/src/module-2/card/index.html" />
-        <option value="$PROJECT_DIR$/src/module-2/card/index.js" />
         <option value="$PROJECT_DIR$/src/module-2/card/styles/css/style.css" />
+        <option value="$PROJECT_DIR$/src/module-3/cards-list-v1/index.js" />
+        <option value="$PROJECT_DIR$/src/module-2/card/index.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="24" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="799" />
   </component>
@@ -156,24 +119,14 @@
               <item name="js-module-nikakarelets" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-module-nikakarelets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="module-2" type="462c0819:PsiDirectoryNode" />
-              <item name="card" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js-module-nikakarelets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-module-nikakarelets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="module-2" type="462c0819:PsiDirectoryNode" />
-              <item name="card" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="module-3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js-module-nikakarelets" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-module-nikakarelets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="module-3" type="462c0819:PsiDirectoryNode" />
+              <item name="cards-list-v1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,7 +139,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/module-2/card/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/module-3/cards-list-v1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -202,6 +155,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/module-3/cards-list-v1" />
       <recent name="$PROJECT_DIR$/src/module-2/card/img" />
       <recent name="$PROJECT_DIR$/src/module-2/card" />
     </key>
@@ -232,7 +186,7 @@
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-module-nikakarelets/src/module-2/card/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-module-nikakarelets/src/module-1/debounce/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-module-nikakarelets/src/module-3/cards-list-v1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/src/module-1/debounce">
@@ -244,10 +198,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Jest.index.spec.js" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="Node.js.index.jsx" />
         <item itemvalue="Node.js.index.js" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -261,20 +215,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632418522199</updated>
-      <workItem from="1632418523746" duration="32986000" />
+      <workItem from="1632418523746" duration="35418000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="index_spec_js - 2021.09.23 at 20h 57m 49s.xml">
-      <configuration name="index.spec.js" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
-    <history-entry file="index_spec_js - 2021.09.23 at 20h 58m 48s.xml">
-      <configuration name="index.spec.js" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
-    <history-entry file="index_spec_js - 2021.09.23 at 20h 59m 04s.xml">
-      <configuration name="index.spec.js" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
     <history-entry file="index_spec_js - 2021.09.23 at 20h 59m 27s.xml">
       <configuration name="index.spec.js" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
@@ -296,26 +241,34 @@
     <history-entry file="index_spec_js - 2021.09.27 at 20h 15m 31s.xml">
       <configuration name="index.spec.js" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
+    <history-entry file="index_spec_js - 2021.09.27 at 20h 24m 20s.xml">
+      <configuration name="index.spec.js" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="index_spec_js - 2021.09.27 at 20h 24m 59s.xml">
+      <configuration name="index.spec.js" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="index_spec_js - 2021.09.28 at 12h 22m 46s.xml">
+      <configuration name="index.spec.js" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32986000" />
+    <option name="totallyTimeSpent" value="35418000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="799" extended-state="0" />
     <layout>
       <window_info id="Gulp" order="0" side_tool="true" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24947146" />
       <window_info id="npm" order="3" side_tool="true" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.38613862" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.4526167" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.3281471" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32673267" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -443,13 +396,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-3/cards-list-v1/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-142" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-3/cards-list-v1/styles/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/module-2/card/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="171">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
           <folding>
-            <element signature="e#457#487#0" expanded="true" />
+            <element signature="e#504#534#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-3/cards-list-v1/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-3/cards-list-v1/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -464,8 +438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/module-2/card/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        <state relative-caret-position="340">
+          <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
         </state>
       </provider>
     </entry>
