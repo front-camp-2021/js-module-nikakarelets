@@ -39,8 +39,6 @@ describe('CardsList', () => {
     expect(body).toHaveTextContent(secondProduct.title);
     expect(body).toHaveTextContent(secondProduct.rating);
     expect(body).toHaveTextContent(secondProduct.price);
-    expect(body).toHaveTextContent(secondProduct.category);
-    expect(body).toHaveTextContent(secondProduct.brand);
   });
 
   it('should have ability to be destroyed', () => {
