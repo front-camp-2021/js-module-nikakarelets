@@ -1,14 +1,12 @@
 export const cutStrings = (arr = []) => {
   if (arr.length > 0) {
-    let shortestStr = arr.reduce((a, b) => a.length <= b.length ? a : b);
-    let result = [];
+    let shortestWord = arr[0];
+    arr.forEach(value => value.length < shortestWord.length ? shortestWord = value : "");
 
-    arr.forEach(function (value) {
-      result.push(value.slice(0, shortestStr.length))
-    });
-
-    return result
-  } else {
-    return []
+    return arr.map(value => {
+      return value.slice(0, shortestWord.length)
+    })
   }
+
+  return []
 };
