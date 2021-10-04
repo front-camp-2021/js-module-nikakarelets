@@ -1,6 +1,6 @@
 import Pagination from '../../module-5/pagination/index.js';
 import SideBar from '../../module-4/side-bar/index.js';
-import CardsList from '../../module-3/cards-list-v1/index.js';
+import CardsList from '../../module-3/cards-list-v1';
 import Search from '../search/index.js';
 import { request } from './request/index.js';
 import { prepareFilters } from './prepare-filters/index.js';

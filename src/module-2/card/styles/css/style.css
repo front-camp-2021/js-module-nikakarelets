@@ -1,0 +1,152 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #fff;
+  font-family: "Montserrat", Helvetica, sans-serif;
+}
+
+button {
+  font-size: 100%;
+  font-family: inherit;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  background: transparent;
+}
+
+.product {
+  align-items: center;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow:  0 2px 8px #0002;
+  display: flex;
+  flex-direction: column;
+  max-width: 25rem;
+  justify-content: end;
+  min-height: 486px;
+  margin: 30px;
+}
+
+.product__rate {
+  background-color: #6f64f8;
+  border-radius: 3px;
+  height: 32px;
+  width: 67px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.product__rate_num {
+  color: white;
+  font-size: 14px;
+  width: 24px;
+}
+
+.product__rate_star {
+  padding-left: 9px;
+}
+
+.product__info {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.product__item {
+  align-items: center;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #00000022;
+  display: flex;
+  flex-direction: column;
+  max-width: 25rem;
+  justify-content: end;
+}
+
+.product__image {
+  max-height: 21rem;
+  display: flex;
+  padding: 2rem;
+}
+.product__image img {
+  height: 100%;
+  width: 100%;
+}
+
+.product__price {
+  align-self: flex-end;
+}
+
+.product__title {
+  margin-top: 25px;
+  min-height: 19px;
+}
+
+.product__buttons {
+  display: flex;
+  width: 100%;
+}
+
+.product__buttons_text, .product__buttons_text-2 {
+  margin-left: 8px;
+  text-transform: uppercase;
+  color: #2c2c2c;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.product__buttons_text-2 {
+  color: white;
+}
+
+.product__buttons_btn {
+  display: flex;
+  height: 45px;
+  align-items: center;
+}
+
+.product__buttons_wishlist {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  background: #EDEDED;
+  border-radius: 0 0 0 8px;
+}
+
+.product__description {
+  margin-top: 3px;
+  color: #2c2c2c;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.flex-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.product__button_add {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  background: #6f64f8;
+  border-radius: 0 0 8px 0;
+}
+
+.add-btn__ico {
+  height: 20px;
+  width: 20px;
+}

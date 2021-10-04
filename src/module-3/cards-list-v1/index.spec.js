@@ -1,4 +1,4 @@
-import Card from '../../module-2/card/index.js';
+import Card from '../../module-2/card';
 import CardsList from './index.js';
 import { products } from '../../fixtures/products.js';
 
@@ -39,8 +39,6 @@ describe('CardsList', () => {
     expect(body).toHaveTextContent(secondProduct.title);
     expect(body).toHaveTextContent(secondProduct.rating);
     expect(body).toHaveTextContent(secondProduct.price);
-    expect(body).toHaveTextContent(secondProduct.category);
-    expect(body).toHaveTextContent(secondProduct.brand);
   });
 
   it('should have ability to be destroyed', () => {
